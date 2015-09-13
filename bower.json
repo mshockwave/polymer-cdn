@@ -2,9 +2,10 @@
   "name": "polymer-cdn",
   "version": "1.0.0",
   "main": "polymer.js",
-  "homepage": "https://github.com/Download/polymer-cdn",
+  "homepage": "https://github.com/mshockwave/polymer-cdn",
   "authors": [
-    "Stijn de Witt <StijnDeWitt@hotmail.com>"
+    "Stijn de Witt <StijnDeWitt@hotmail.com>",
+	"Bekket McClane <yihshyng223@gmail.com>"
   ],
   "description": "Mirror for Polymer so it can be used from CDN.",
   "keywords": [
@@ -21,13 +22,13 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#1.0.0",
-    "paper-elements": "polymerelements/paper-elements#~1.0.1",
-    "iron-elements": "polymerelements/iron-elements#~1.0.2",
-    "neon-elements": "polymerelements/neon-elements#~1.0.0",
-    "gold-elements": "polymerelements/gold-elements#~1.0.1",
-    "platinum-elements": "polymerelements/platinum-elements#~1.0.1",
-    "google-web-components": "GoogleWebComponents/google-web-components#~1.0.1",
-    "molecules": "polymerelements/molecules#~1.0.0"
+    "polymer": "Polymer/polymer",
+    "paper-elements": "polymerelements/paper-elements",
+    "iron-elements": "polymerelements/iron-elements",
+    "neon-elements": "polymerelements/neon-elements",
+    "gold-elements": "polymerelements/gold-elements",
+    "platinum-elements": "polymerelements/platinum-elements",
+    "google-web-components": "GoogleWebComponents/google-web-components",
+    "molecules": "polymerelements/molecules"
   }
 }

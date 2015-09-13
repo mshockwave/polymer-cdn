@@ -1,5 +1,6 @@
 # polymer-cdn
 A mirror of Polymer's components so that they can be used directly from CDN
+#WARNING: VERSIONS IN THIS README HASN'T UPDATED YET
 
 ## How to use
 In general, given an element named `my-cool-element`, the CDN url for it will be:
